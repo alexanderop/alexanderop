@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a full-stack web developer.<br><br>That always like to learn new things
 
+check out my blog at -> https://alexop.dev/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-opalic-55464a169/?originalSubdomain=de) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/therealalex5363/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alexanderopalic) 
