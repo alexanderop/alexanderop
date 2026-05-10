@@ -9,31 +9,17 @@ check out my blog at -> https://alexop.dev/
 
 ## 🧩 Claude Code Skills
 
-A collection of skills, plugins, and tooling I've built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+A collection of skills I've built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-### Skills
 | Skill | Description |
 |---|---|
 | [walkthrough](https://github.com/alexanderop/walkthrough) | Generates interactive HTML walkthroughs with clickable Mermaid diagrams to explain codebase features, flows, and architecture |
-| [claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development) | Vue.js development with TypeScript — testing-first, functional patterns, and maintainable architecture |
 | [app-screenshots](https://github.com/alexanderop/app-screenshots) | Generates annotated screenshot documentation for any web app using agent-browser |
 | [good-docs-writer](https://github.com/alexanderop/good-docs-writer) | Turns a topic into a structured developer blog post draft using The Good Docs Project templates |
 | [excalidraw-skill](https://github.com/alexanderop/excalidraw-skill) | Generates hand-drawn Excalidraw diagrams as `.excalidraw` files |
 | [html-presentation](https://github.com/alexanderop/html-presentation) | Generates self-contained HTML presentations from any topic |
 | [mermaid](https://github.com/alexanderop/mermaid) | Validate and preview Mermaid diagrams directly from Claude Code |
-| [brainmaxxing](https://github.com/alexanderop/brainmaxxing) | Stupid simple persistent memory and skill improvement |
-
-### Plugins
-| Plugin | Description |
-|---|---|
-| [awesome-claude-code-vue](https://github.com/alexanderop/awesome-claude-code-vue) | Useful utilities and commands for Vue and Nuxt projects |
-| [compound-engineering-plugin](https://github.com/alexanderop/compound-engineering-plugin) | Office Compound Engineering plugin for Claude Code, Codex, and more |
-| [meridian](https://github.com/alexanderop/meridian) | Zero-config setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, and optional TDD mode |
-
-### Tooling
-| Repo | Description |
-|---|---|
-| [claude-code-builder](https://github.com/alexanderop/claude-code-builder) | Build skills, subagents, hooks, slash commands, and plugins for Claude Code — fast and consistently |
+| [clone-repo](https://github.com/alexanderop/clone-repo) | Vendors a third-party repo as a git subtree under `repos/<name>/` and wires it into AGENTS.md so coding agents read real source instead of stale docs |
 
 # 💻 Tech Stack:
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
